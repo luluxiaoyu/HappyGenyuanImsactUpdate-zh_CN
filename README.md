@@ -1,6 +1,9 @@
 [中文](https://github.com/YYHEggEgg/HappyGenyuanImsactUpdate/blob/main/README_CN.md) | EN
 
+FORKED FROM : [YYHEggEgg/HappyGenyuanImsactUpdate: A hdiff-using update program of a certain anime game. (github.com)](https://github.com/YYHEggEgg/HappyGenyuanImsactUpdate)
+
 # HappyGenyuanImsactUpdate
+
 A hdiff-using update program of a certain anime game.
 
 ## Annoucements
@@ -67,7 +70,7 @@ Usage: hdiffpatchcreator
   -output_to <output_zip_directory>
   [-p <prefix>] [-reverse] [--skip-check]
 ```
-  
+
 By using this program, you can get a package named: 
 ```
 [prefix]_<versionFrom>_<versionTo>_hdiff_<randomstr>.zip
